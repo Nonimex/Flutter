@@ -5,6 +5,7 @@ Se usa para elementos estáticos: títulos, tarjetas de información fija, icono
 
 *Code:
 
+```
 import 'package:flutter/material.dart';
 
 class MiTarjetaEstatica extends StatelessWidget {
@@ -15,3 +16,4 @@ class MiTarjetaEstatica extends StatelessWidget {
     return Text('Hola, soy un texto estático');
   }
 }
+```
