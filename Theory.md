@@ -3,7 +3,7 @@
 
 Se usa para elementos estáticos: títulos, tarjetas de información fija, iconos, o textos que no dependen de que el usuario presione un botón para cambiar.
 
-*Code:
+*Code: (To visualize the code, use ``` at the beginning and at the end)
 
 ```
 import 'package:flutter/material.dart';
