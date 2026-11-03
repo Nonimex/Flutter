@@ -20,7 +20,7 @@ Significa "**Párate** aquí un momentito hasta que esto responda".
 La palabra await solo se puede usar dentro de una función que tenga async. Sirve para decirle al código: "Detén la ejecución de esta línea específica hasta que el Future termine de descargar los datos y nos entregue el resultado real".
 
 
-´´´
+```
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http; // 1. Importación de red
 
@@ -120,4 +120,4 @@ class Pokemon {
   final String name;
   Pokemon({required this.name});
 }
-´´´
+```
